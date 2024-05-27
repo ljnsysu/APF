@@ -1,0 +1,141 @@
+[2022-05-22 12:09:01,488 INFO extract_data.py line 54 1380] Namespace(arch='pointtransformer_seg_repro', batch_size_test=4, classes=13, data_name='s3dis', data_root='/user/lijianan/point-transformer/data/stanford_indoor3d/', fea_dim=6, ignore_label=255, loop=30, model_path='/user/lijianan/point-transformer/exp/s3dis/pointtransformer_repro/model/model_best.pth', names_path='/user/lijianan/point-transformer/data/s3dis/s3dis_names.txt', save_folder='exp/s3dis/pointtransformer_repro/result/best', split='val', test_gpu=[3], test_list='dataset/s3dis/list/val5.txt', test_list_full='dataset/s3dis/list/val5_full.txt', test_workers=4, voxel_max=80000, voxel_size=0.04)
+[2022-05-22 12:09:01,489 INFO extract_data.py line 56 1380] Classes: 13
+[2022-05-22 12:09:01,489 INFO extract_data.py line 82 1380] >>>>>>>>>>>>>>>> Extract Data >>>>>>>>>>>>>>>>
+[2022-05-22 12:09:01,489 INFO extract_data.py line 89 1380] Area_5_WC_1
+[2022-05-22 12:09:01,546 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:01,547 INFO extract_data.py line 89 1380] Area_5_WC_2
+[2022-05-22 12:09:01,585 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:01,586 INFO extract_data.py line 89 1380] Area_5_conferenceRoom_1
+[2022-05-22 12:09:01,649 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 11. 12.]
+[2022-05-22 12:09:01,650 INFO extract_data.py line 89 1380] Area_5_conferenceRoom_2
+[2022-05-22 12:09:01,794 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8.  9. 10. 11. 12.]
+[2022-05-22 12:09:01,794 INFO extract_data.py line 89 1380] Area_5_conferenceRoom_3
+[2022-05-22 12:09:01,900 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 11. 12.]
+[2022-05-22 12:09:01,900 INFO extract_data.py line 89 1380] Area_5_hallway_1
+[2022-05-22 12:09:02,118 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  9. 10. 12.]
+[2022-05-22 12:09:02,119 INFO extract_data.py line 89 1380] Area_5_hallway_10
+[2022-05-22 12:09:02,204 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:02,204 INFO extract_data.py line 89 1380] Area_5_hallway_11
+[2022-05-22 12:09:02,248 INFO extract_data.py line 92 1380] [0. 1. 2. 6.]
+[2022-05-22 12:09:02,249 INFO extract_data.py line 89 1380] Area_5_hallway_12
+[2022-05-22 12:09:02,423 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:02,424 INFO extract_data.py line 89 1380] Area_5_hallway_13
+[2022-05-22 12:09:02,495 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6. 12.]
+[2022-05-22 12:09:02,496 INFO extract_data.py line 89 1380] Area_5_hallway_14
+[2022-05-22 12:09:02,537 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:02,537 INFO extract_data.py line 89 1380] Area_5_hallway_15
+[2022-05-22 12:09:02,632 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6. 12.]
+[2022-05-22 12:09:02,632 INFO extract_data.py line 89 1380] Area_5_hallway_2
+[2022-05-22 12:09:02,941 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:02,942 INFO extract_data.py line 89 1380] Area_5_hallway_3
+[2022-05-22 12:09:03,016 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:03,017 INFO extract_data.py line 89 1380] Area_5_hallway_4
+[2022-05-22 12:09:03,091 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  9. 10. 12.]
+[2022-05-22 12:09:03,092 INFO extract_data.py line 89 1380] Area_5_hallway_5
+[2022-05-22 12:09:03,279 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  9. 10. 12.]
+[2022-05-22 12:09:03,280 INFO extract_data.py line 89 1380] Area_5_hallway_6
+[2022-05-22 12:09:03,340 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:03,341 INFO extract_data.py line 89 1380] Area_5_hallway_7
+[2022-05-22 12:09:03,425 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:03,426 INFO extract_data.py line 89 1380] Area_5_hallway_8
+[2022-05-22 12:09:03,449 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:03,450 INFO extract_data.py line 89 1380] Area_5_hallway_9
+[2022-05-22 12:09:03,516 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6. 12.]
+[2022-05-22 12:09:03,516 INFO extract_data.py line 89 1380] Area_5_lobby_1
+[2022-05-22 12:09:03,596 INFO extract_data.py line 92 1380] [ 0.  1.  2.  7.  8. 12.]
+[2022-05-22 12:09:03,597 INFO extract_data.py line 89 1380] Area_5_office_1
+[2022-05-22 12:09:03,637 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:03,638 INFO extract_data.py line 89 1380] Area_5_office_10
+[2022-05-22 12:09:03,684 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:03,685 INFO extract_data.py line 89 1380] Area_5_office_11
+[2022-05-22 12:09:03,735 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:03,735 INFO extract_data.py line 89 1380] Area_5_office_12
+[2022-05-22 12:09:03,797 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:03,798 INFO extract_data.py line 89 1380] Area_5_office_13
+[2022-05-22 12:09:03,863 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:03,863 INFO extract_data.py line 89 1380] Area_5_office_14
+[2022-05-22 12:09:03,936 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:03,937 INFO extract_data.py line 89 1380] Area_5_office_15
+[2022-05-22 12:09:04,024 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,025 INFO extract_data.py line 89 1380] Area_5_office_16
+[2022-05-22 12:09:04,073 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,074 INFO extract_data.py line 89 1380] Area_5_office_17
+[2022-05-22 12:09:04,129 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7. 10. 12.]
+[2022-05-22 12:09:04,130 INFO extract_data.py line 89 1380] Area_5_office_18
+[2022-05-22 12:09:04,221 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,222 INFO extract_data.py line 89 1380] Area_5_office_19
+[2022-05-22 12:09:04,315 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,316 INFO extract_data.py line 89 1380] Area_5_office_2
+[2022-05-22 12:09:04,373 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,374 INFO extract_data.py line 89 1380] Area_5_office_20
+[2022-05-22 12:09:04,400 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:04,400 INFO extract_data.py line 89 1380] Area_5_office_21
+[2022-05-22 12:09:04,530 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,531 INFO extract_data.py line 89 1380] Area_5_office_22
+[2022-05-22 12:09:04,574 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,575 INFO extract_data.py line 89 1380] Area_5_office_23
+[2022-05-22 12:09:04,625 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,625 INFO extract_data.py line 89 1380] Area_5_office_24
+[2022-05-22 12:09:04,732 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8.  9. 10. 11. 12.]
+[2022-05-22 12:09:04,733 INFO extract_data.py line 89 1380] Area_5_office_25
+[2022-05-22 12:09:04,765 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,766 INFO extract_data.py line 89 1380] Area_5_office_26
+[2022-05-22 12:09:04,810 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,811 INFO extract_data.py line 89 1380] Area_5_office_27
+[2022-05-22 12:09:04,848 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,848 INFO extract_data.py line 89 1380] Area_5_office_28
+[2022-05-22 12:09:04,917 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:04,917 INFO extract_data.py line 89 1380] Area_5_office_29
+[2022-05-22 12:09:05,019 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,020 INFO extract_data.py line 89 1380] Area_5_office_3
+[2022-05-22 12:09:05,080 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,080 INFO extract_data.py line 89 1380] Area_5_office_30
+[2022-05-22 12:09:05,104 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,105 INFO extract_data.py line 89 1380] Area_5_office_31
+[2022-05-22 12:09:05,149 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:05,150 INFO extract_data.py line 89 1380] Area_5_office_32
+[2022-05-22 12:09:05,195 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:05,196 INFO extract_data.py line 89 1380] Area_5_office_33
+[2022-05-22 12:09:05,256 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,257 INFO extract_data.py line 89 1380] Area_5_office_34
+[2022-05-22 12:09:05,305 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,306 INFO extract_data.py line 89 1380] Area_5_office_35
+[2022-05-22 12:09:05,357 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,358 INFO extract_data.py line 89 1380] Area_5_office_36
+[2022-05-22 12:09:05,442 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,443 INFO extract_data.py line 89 1380] Area_5_office_37
+[2022-05-22 12:09:05,606 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,607 INFO extract_data.py line 89 1380] Area_5_office_38
+[2022-05-22 12:09:05,766 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8.  9. 10. 12.]
+[2022-05-22 12:09:05,766 INFO extract_data.py line 89 1380] Area_5_office_39
+[2022-05-22 12:09:05,825 INFO extract_data.py line 92 1380] [ 0.  1.  2.  3.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,825 INFO extract_data.py line 89 1380] Area_5_office_4
+[2022-05-22 12:09:05,866 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:05,867 INFO extract_data.py line 89 1380] Area_5_office_40
+[2022-05-22 12:09:06,039 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:06,040 INFO extract_data.py line 89 1380] Area_5_office_41
+[2022-05-22 12:09:06,137 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:06,138 INFO extract_data.py line 89 1380] Area_5_office_42
+[2022-05-22 12:09:06,187 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:06,188 INFO extract_data.py line 89 1380] Area_5_office_5
+[2022-05-22 12:09:06,228 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6.  7.  8. 10. 12.]
+[2022-05-22 12:09:06,229 INFO extract_data.py line 89 1380] Area_5_office_6
+[2022-05-22 12:09:06,275 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:06,275 INFO extract_data.py line 89 1380] Area_5_office_7
+[2022-05-22 12:09:06,339 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:06,340 INFO extract_data.py line 89 1380] Area_5_office_8
+[2022-05-22 12:09:06,389 INFO extract_data.py line 92 1380] [ 0.  1.  2.  4.  5.  6.  7.  8. 10. 11. 12.]
+[2022-05-22 12:09:06,390 INFO extract_data.py line 89 1380] Area_5_office_9
+[2022-05-22 12:09:06,433 INFO extract_data.py line 92 1380] [ 0.  1.  2.  5.  6.  7.  8.  9. 10. 12.]
+[2022-05-22 12:09:06,434 INFO extract_data.py line 89 1380] Area_5_pantry_1
+[2022-05-22 12:09:06,488 INFO extract_data.py line 92 1380] [ 0.  1.  2. 12.]
+[2022-05-22 12:09:06,488 INFO extract_data.py line 89 1380] Area_5_storage_1
+[2022-05-22 12:09:06,524 INFO extract_data.py line 92 1380] [ 0.  1.  2.  3.  4.  6. 10. 12.]
+[2022-05-22 12:09:06,524 INFO extract_data.py line 89 1380] Area_5_storage_2
+[2022-05-22 12:09:06,568 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 10. 12.]
+[2022-05-22 12:09:06,568 INFO extract_data.py line 89 1380] Area_5_storage_3
+[2022-05-22 12:09:06,577 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6. 12.]
+[2022-05-22 12:09:06,578 INFO extract_data.py line 89 1380] Area_5_storage_4
+[2022-05-22 12:09:06,617 INFO extract_data.py line 92 1380] [ 0.  1.  2.  6.  7.  8. 12.]
+[2022-05-22 12:09:06,618 INFO extract_data.py line 96 1380] Number of scenes: [68. 68. 68.  2. 38. 35. 66. 47. 46.  7. 48. 36. 67.]
+[2022-05-22 12:09:06,618 INFO extract_data.py line 97 1380] <<<<<<<<<<<<<<<<< End Extraction <<<<<<<<<<<<<<<<<

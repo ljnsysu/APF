@@ -1,0 +1,22 @@
+# ninja log v5
+3	25642	1649909031412180659	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/pointops_api.o	3dabace43b135a9c
+1	28985	1649909034764157828	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda_kernel.o	de15a6bda02ac432
+2	29018	1649909034800157584	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda_kernel.o	cd56653cdb38682
+2	29115	1649909034896156931	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda_kernel.o	3ed910d72ce0ece3
+3	29465	1649909035248154540	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/knnquery/knnquery_cuda_kernel.o	4695b7aafc6936cb
+4	29783	1649909035564152395	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda_kernel.o	5599656bf8f47f54
+5	30224	1649909036008149381	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda_kernel.o	4647384b65c3841a
+9	7174	1649910830080323196	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda.o	86b0d6674737d53e
+11	7195	1649910830100323195	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/knnquery/knnquery_cuda.o	1506f21748d6c3e0
+11	7419	1649910830324323189	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda.o	2f48660fdd34a152
+10	7551	1649910830456323186	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda.o	a38e7de676d8b65e
+14	7646	1649910830552323184	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda.o	fb1a7602122b3870
+10	8503	1649910831408323162	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda.o	1d9da5973cbeb865
+11	26760	1649910849656322260	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/pointops_api.o	3dabace43b135a9c
+33	7729	1655278440925054871	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda.o	2f48660fdd34a152
+29	7810	1655278441005054897	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda.o	86b0d6674737d53e
+32	7863	1655278441061054915	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda.o	1d9da5973cbeb865
+32	8093	1655278441289054989	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/knnquery/knnquery_cuda.o	1506f21748d6c3e0
+33	8149	1655278441349055009	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda.o	fb1a7602122b3870
+32	8218	1655278441417055031	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda.o	a38e7de676d8b65e
+32	27374	1655278460565060792	/user/lijianan/point-transformer/lib/pointops/build/temp.linux-x86_64-3.8/src/pointops_api.o	3dabace43b135a9c
